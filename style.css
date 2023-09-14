@@ -1,0 +1,48 @@
+h2
+{
+
+    text-align: center;
+}
+
+h3
+
+{
+
+    text-align: center;
+}
+
+
+
+figcaption
+{
+    text-align: center;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+
+.resized-image
+
+{
+
+
+width: 300px;
+height: auto;
+
+}
+
+figure
+
+{
+    text-align: center;
+}
+
+p
+
+{
+font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+ul
+{
+    font-family: 'Atkinson Hyperlegible', sans-serif;   
+}
